@@ -681,7 +681,7 @@ const Gui = class {
 		});
 
 		grid.classList.add('solved');
-		solvedP.textContent = 'Solved!';
+		solvedP.textContent = 'Love ya my little Strawberry!';
 	}
 
 
